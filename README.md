@@ -22,6 +22,9 @@ if the code is more than
 one line, you can put
 Three of those symbols
 ```
+```python
+print ("hello")
+```
 
 <!--
 **shivam6744/shivam6744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

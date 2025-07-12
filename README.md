@@ -21,7 +21,7 @@ Looks like i can even add a **Link** and that too embedded in a text, like [Wall
 
 Now *Supposedly* adding image link is similar to adding a regular link, different being the **!**
 
-Like ![This is me](https://images.app.goo.gl/trKDkBy7f2mNDSm27)
+Im gonna leave this section for now.
 
 So what i'm gonna do is *add one more table, just so i can, thats called **Use of Free Will***
 

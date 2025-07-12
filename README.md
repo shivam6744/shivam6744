@@ -17,6 +17,13 @@ First|second
 
 Also, this is a `code` or maybe `this one`
 
+So what i'm gonna do is *add one more table, just so i can, thats called **Use of Free Will***
+
+New|Table
+-|-
+5|6
+7|8
+
 ```Now the document says
 if the code is more than
 one line, you can put

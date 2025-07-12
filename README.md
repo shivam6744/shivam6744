@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is *Shibu* and i'm trying to learn github to break into tech as a **Cloud Engineer**. 
+
+Its hard to learn so many commands for **Python, Linux and Github** but looks like eventually we will get there.
+
+Until then, here's a picture of me /https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discoverwildlife.com%2Fanimal-facts%2Fmammals%2Ffacts-about-giraffes&psig=AOvVaw06lggnrt9U7qrgBVNFxZb7&ust=1752434945533000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5kImHuI4DFQAAAAAdAAAAABAE
+
 <!--
 **shivam6744/shivam6744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

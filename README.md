@@ -17,6 +17,8 @@ First|second
 
 Also, this is a `code` or maybe `this one`
 
+Looks like i can even add a **Link** and that too embedded in a text, like [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
+
 So what i'm gonna do is *add one more table, just so i can, thats called **Use of Free Will***
 
 New|Table

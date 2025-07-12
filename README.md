@@ -4,7 +4,7 @@ My name is *Shibu* and i'm trying to learn github to break into tech as a **Clou
 
 Its hard to learn so many commands for **Python, Linux and Github** but looks like eventually we will get there.
 
-Until then, here's a picture of me 
+Until then, here's a picture of me /https://images.app.goo.gl/trKDkBy7f2mNDSm27
 <!--
 **shivam6744/shivam6744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

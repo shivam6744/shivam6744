@@ -20,7 +20,8 @@ Also, this is a `code` or maybe `this one`
 ```Now the document says
 if the code is more than
 one line, you can put
-Three of those symbols```
+Three of those symbols
+```
 
 <!--
 **shivam6744/shivam6744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

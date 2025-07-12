@@ -15,6 +15,13 @@ First|second
 1|2
 3|4
 
+> So what i can do is add one more tbale and try to sync it.
+
+Learn|Git
+-|-
+Not|Easy
+Not|Hard either
+
 Also, this is a `code` or maybe `this one`
 
 Looks like i can even add a **Link** and that too embedded in a text, like [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)

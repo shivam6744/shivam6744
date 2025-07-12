@@ -6,8 +6,14 @@ Its hard to learn so many commands for **Python, Linux and Github** but looks li
 
 Until then, here's a picture of me /https://images.app.goo.gl/trKDkBy7f2mNDSm27
 
-> Document said this is gonna be a quoted text if i put greater than sign in front of it, lets see
+> Remember this while working with Vscode that if you get a error while committing or pushing a code and it says *Nothing to Commit, working tree clean
 
+> Then what you need to do is, first click **ctrl+ s** so the changes are saved locally
+> Then **Git add .** and then **git commit -m " My comment"** and then **git push origin main**
+
+imma paste the link of the website here as well where i can get these commands and a couple more things:
+
+[This is the freecodecamp website](https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/)
 Also, im gonna add a random table here just so i can, so why not :)
 
 First|second

@@ -9,6 +9,7 @@ Until then, here's a picture of me /https://images.app.goo.gl/trKDkBy7f2mNDSm27
 Also, im gonna add a random table here just so i can, so why not :)
 
 First|second
+-|-
 1|2
 3|4
 

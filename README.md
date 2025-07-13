@@ -8,6 +8,8 @@ Its hard to learn so many commands for **Python, Linux and Github** but looks li
 
 > Okee, so this one is in the **Test Branch** supposedly.
 
+> So this one is the **Mayo Branch**
+
 Until then, here's a picture of me /https://images.app.goo.gl/trKDkBy7f2mNDSm27
 
 *I heard there was a secret chord that David played and it pleased the Lord*

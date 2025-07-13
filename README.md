@@ -6,6 +6,8 @@ Its hard to learn so many commands for **Python, Linux and Github** but looks li
 
 Until then, here's a picture of me /https://images.app.goo.gl/trKDkBy7f2mNDSm27
 
+*I heard there was a secret chord that David played and it pleased the Lord*
+
 > Remember this while working with Vscode that if you get a error while committing or pushing a code and it says *Nothing to Commit, working tree clean
 
 > Then what you need to do is, first click **ctrl+ s** so the changes are saved locally
